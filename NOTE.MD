@@ -1,0 +1,1 @@
+1. We have setup 2 layers of error handling for mongoose errors, in controllers as well as prettifying the errors coming from mongoose, if in case any error is not handled in controllers.
